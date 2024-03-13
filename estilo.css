@@ -12,3 +12,8 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.icones-cbc{
+    display: flex;
+    justify-content: flex-end;
+}

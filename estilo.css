@@ -13,10 +13,6 @@ body{
     align-items: center;
 }
 
-.portaluruguai{
-    display: flex;
-    justify-content: space-between;
-}
 .icones-cbc{
     display: flex;
     justify-content: space-between;

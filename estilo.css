@@ -9,7 +9,7 @@ body{
 
 
 .cabecalho{
-    background-color: rgba(224, 236, 255, 0.897) 50% ;
+    background-color: rgba(224, 236, 255, 0.897)  ;
     display: flex;
     justify-content: space-between;
     color: rgb(33, 32, 32); 
@@ -28,6 +28,6 @@ body{
 }
 
 .corpo1{
-    background-color: rgba(224, 236, 255, 0.897) 30%;
+    background-color: rgba(224, 236, 255, 0.897) ;
     font-size: 100%;
 }

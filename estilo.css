@@ -20,10 +20,10 @@ body{
     margin-top: 0px;
 }
 
-.icones-cbc{
+.botao{
     display: flex;
     justify-content: space-between;
-    background-color: #4CAF50; /* Cor de fundo */
+    background-color: #0c0d4b; /* Cor de fundo */
     border: none; /* Remove bordas */
     color: white; /* Cor do texto */
     padding: 15px 32px; /* Espaçamento interno */
@@ -35,7 +35,7 @@ body{
     cursor: pointer; /* Muda o cursor para um ponteiro quando você passa o mouse sobre o botão */
     border-radius: 12px; /* Borda arredondada */
 }
-.icones-cbc:hover{
+.botao{
   
         background-color: #45a049; /* Cor de fundo quando o mouse passa sobre o botão */
         color: black; /* Cor do texto quando o mouse passa sobre o botão */

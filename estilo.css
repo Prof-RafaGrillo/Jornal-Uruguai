@@ -19,6 +19,8 @@ body{
     width: 20%;
     margin-top: 0px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
 }
 
 .botao{

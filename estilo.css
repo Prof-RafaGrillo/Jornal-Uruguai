@@ -23,17 +23,23 @@ body{
 .botao{
     display: flex;
     justify-content: space-between;
-    background-color: #0c0d4b; /* Cor de fundo */
-    border: none; /* Remove bordas */
-    color: white; /* Cor do texto */
-    padding: 15px 32px; /* Espaçamento interno */
-    text-align: center; /* Alinhamento do texto */
-    text-decoration: none; /* Remove sublinhado do texto */
+    background-color: #03961b;
+    border: none; 
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-    cursor: pointer; /* Muda o cursor para um ponteiro quando você passa o mouse sobre o botão */
-    border-radius: 12px; /* Borda arredondada */
+    cursor: pointer; 
+    border-radius: 12px; 
+.botao:hover{
+  
+        background-color: #45a049; /* Cor de fundo quando o mouse passa sobre o botão */
+        color: black; /* Cor do texto quando o mouse passa sobre o botão */
+    
+}
 }
 
 

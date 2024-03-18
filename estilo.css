@@ -11,8 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(33, 32, 32);
-    justify-content: flex-end;
+    color: rgb(33, 32, 32); 
 }
 
 .icones-cbc{

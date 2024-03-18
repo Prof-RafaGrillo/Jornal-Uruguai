@@ -35,11 +35,7 @@ body{
     cursor: pointer; /* Muda o cursor para um ponteiro quando você passa o mouse sobre o botão */
     border-radius: 12px; /* Borda arredondada */
 }
-.botao{
-  
-        background-color: #45a049; /* Cor de fundo quando o mouse passa sobre o botão */
-        color: black; /* Cor do texto quando o mouse passa sobre o botão */
-    }
+
 
 
 .corpo1{

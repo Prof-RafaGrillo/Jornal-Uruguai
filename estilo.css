@@ -34,14 +34,14 @@ body{
     margin: 4px 2px;
     cursor: pointer; 
     border-radius: 12px; 
+
+}
 .botao:hover{
   
-        background-color: #f5fff6; 
-        color: black; 
-    
-}
-}
+    background-color: #f5fff6; 
+    color: black; 
 
+}
 
 
 .corpo1{

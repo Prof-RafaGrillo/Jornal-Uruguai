@@ -6,6 +6,12 @@ body{
 
 }
 
+.portaluruguai{
+    display: flex;
+    justify-content: space-between;
+
+}
+
 .cabecalho{
     background-color: rgba(224, 236, 255, 0.897) ;
     display: flex;

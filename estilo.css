@@ -16,4 +16,6 @@ body{
 .icones-cbc{
     display: flex;
     justify-content: space-between;
+    color: white;
+    height: 100vh;
 }

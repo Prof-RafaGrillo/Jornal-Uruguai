@@ -20,7 +20,13 @@ body{
     margin-top: 0px;
 }
 
-.botao{
+.botao:hover{
+    
+  
+        background-color: #f5fff6; /* Cor de fundo quando o mouse passa sobre o botão */
+        color: black; /* Cor do texto quando o mouse passa sobre o botão */
+    
+
     display: flex;
     justify-content: space-between;
     background-color: #03961b;
@@ -34,12 +40,7 @@ body{
     margin: 4px 2px;
     cursor: pointer; 
     border-radius: 12px; 
-.botao:hover{
-  
-        background-color: #f5fff6; /* Cor de fundo quando o mouse passa sobre o botão */
-        color: black; /* Cor do texto quando o mouse passa sobre o botão */
-    
-}
+
 }
 
 

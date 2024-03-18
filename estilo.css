@@ -15,6 +15,11 @@ body{
     color: rgb(33, 32, 32); 
 }
 
+.imglogo{
+
+    
+}
+
 .icones-cbc{
     display: flex;
     justify-content: space-between;

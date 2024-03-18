@@ -20,7 +20,7 @@ body{
     margin-top: 0px;
     cursor: pointer;
     display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .botao{

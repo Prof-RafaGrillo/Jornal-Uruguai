@@ -18,6 +18,7 @@ body{
 .imglogo{
     width: 20%;
     margin-top: 0px;
+    cursor: pointer;
 }
 
 .botao{

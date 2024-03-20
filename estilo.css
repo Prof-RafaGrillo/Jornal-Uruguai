@@ -17,12 +17,7 @@ body{
 }
 
 .Logo{
-    width: 20%;
-    margin-top: 0px;
-    cursor: pointer;
-    margin-left: 250px;
-    text-align: left;
-
+    font-size: 10px;
 }
 
 .imglogo{

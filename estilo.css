@@ -16,6 +16,15 @@ body{
     
 }
 
+.Log{
+    width: 20%;
+    margin-top: 0px;
+    cursor: pointer;
+    margin-left: 250px;
+    text-align: left;
+
+}
+
 .imglogo{
     width: 20%;
     margin-top: 0px;

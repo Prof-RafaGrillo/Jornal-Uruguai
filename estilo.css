@@ -59,14 +59,14 @@ body{
 
 .corpo1{
     background-color: rgba(224, 236, 255, 0.897) ;
-    font-size: 100%;
+    font-size: 200%;
 }
 
 .classes{
     background-color: rgba(224, 236, 255, 0.897);
 }
 
-/* Grid Container */
-.classes {
+
+.grid {
 	display: grid;
 }

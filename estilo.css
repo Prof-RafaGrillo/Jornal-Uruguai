@@ -82,3 +82,8 @@ body{
 
     font-family: "Roboto Slab", serif;
 }
+
+.item{
+    display: flex;
+    
+}

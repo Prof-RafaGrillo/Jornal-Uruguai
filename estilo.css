@@ -3,6 +3,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Tauri&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Tauri&display=swap');
+
+
 
 body{
     background: rgb(12,11,45);
@@ -51,7 +54,7 @@ body{
     cursor: pointer; 
     border-radius: 12px; 
     margin-top: 35px;
-    
+
     font-family: "Tauri", sans-serif;
 }
 .botao:hover{
@@ -75,4 +78,6 @@ body{
 
 .grid {
 	display: grid;
+
+    font-family: "Roboto Slab", serif;
 }

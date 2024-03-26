@@ -65,3 +65,8 @@ body{
 .classes{
     background-color: rgba(224, 236, 255, 0.897);
 }
+
+/* Grid Container */
+.classes {
+	display: grid;
+}

@@ -71,10 +71,6 @@ body{
     color: darkblue;
 }
 
-.classes{
-    background-color: rgba(224, 236, 255, 0.897);
-}
-
 
 .grid {
 	display: grid;
@@ -84,6 +80,6 @@ body{
 }
 
 .item{
-    display: flex;
-    
+     display: flex; 
+     background-color: rgba(224, 236, 255, 0.897);
 }

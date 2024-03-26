@@ -81,5 +81,10 @@ body{
 
 .item{
      display: flex; 
+     align-items: center;
      background-color: rgba(224, 236, 255, 0.897);
+}
+
+.logos{
+    width: 50%;
 }

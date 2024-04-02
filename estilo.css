@@ -24,13 +24,17 @@ body{
     
 }
 
+.imglogo1{
+    text-align: center;
+
+}
 
 .imglogo{
     width: 12%;
     margin-top: 0px;
     cursor: pointer;
     text-align: center;
-    display: flex;
+
 }
 
 .botao{

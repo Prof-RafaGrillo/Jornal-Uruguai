@@ -30,7 +30,7 @@ body{
     margin-top: 0px;
     cursor: pointer;
     text-align: center;
-
+    display: flex;
 }
 
 .botao{

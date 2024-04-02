@@ -85,7 +85,7 @@ body{
 
 .buton{
     display: flex;
-    justify-content: space-between;
+    justify-content: right;
     background-color: #03961b;
     border: none; 
     color: white; 

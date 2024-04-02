@@ -31,6 +31,7 @@ body{
     cursor: pointer;
     margin-left: 250px;
     text-align: center;
+    font-size: 10px;
 }
 
 .botao{
@@ -79,5 +80,5 @@ body{
 .images{
 
 
-    
+
 }

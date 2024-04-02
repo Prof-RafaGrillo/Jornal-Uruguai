@@ -98,3 +98,10 @@ body{
 
     font-family: "Tauri", sans-serif;
 }
+
+.buton:hover{
+  
+    background-color: #a6f0ad; 
+    color: black; 
+
+}

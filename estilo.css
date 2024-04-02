@@ -70,6 +70,7 @@ body{
      display: flex; 
      align-items: center;
      background-color: rgba(224, 236, 255, 0.897);
+     justify-content: space-evenly;
 }
 
 .logos{
@@ -85,7 +86,7 @@ body{
 
 .buton{
     display: flex;
-    justify-content: right;
+    justify-content: space-between;
     background-color: #03961b;
     border: none; 
     color: white; 
